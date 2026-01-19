@@ -1,6 +1,4 @@
 # Hi, I’m Haniel 👋  
-## AI & Cloud Data Architect
-
 ## Scalable cloud-native Lakehouse platforms | GenAI agents to power intelligent products
 
 I design and build **Scalable cloud-native Lakehouse platforms and AI systems** that power analytics, automation, intelligent products and decision-making at enterprise scale.
